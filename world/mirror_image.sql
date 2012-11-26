@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `speed_walk`=1, `speed_run`=1, `unit_class`=8 WHERE  `entry`=31216 LIMIT 1;
